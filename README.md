@@ -60,8 +60,7 @@ The aim of this dataset is to provide detailed information on loan applications 
     
 # Data Source
 
-# Tools
-| --- | --- |
+# Tools 
 | Excel | Cleaning, Processing, Pivot Tables |
 
 # Dashboard design
