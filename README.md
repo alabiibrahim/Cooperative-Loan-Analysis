@@ -1,5 +1,7 @@
 # Cooperative-Loan-Analysis
 
+![ReportGIF](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/cooperativeloan%20gif.gif)
+
 # Table of contents
 
 - [Project brief](#Projectbrief)
@@ -96,6 +98,8 @@ Process of which the dashboard was designed
 ![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/008.PNG)
 
 ![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/009.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/010.PNG)
 
 # Dashboard Mockup
 
