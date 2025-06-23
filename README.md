@@ -65,6 +65,7 @@ The aim of this dataset is to provide detailed information on loan applications 
 
 # Dashboard design
 Process of which the dashboard was designed
+![](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/001.PNG)
 1.  Clustered column chart
 2.  Bar & Column chart
 3.  Donut Chart
