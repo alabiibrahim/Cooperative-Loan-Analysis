@@ -65,7 +65,7 @@ The aim of this dataset is to provide detailed information on loan applications 
 
 # Dashboard design
 Process of which the dashboard was designed
-![](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/001.PNG)
+
 1.  Clustered column chart
 2.  Bar & Column chart
 3.  Donut Chart
@@ -79,6 +79,25 @@ Process of which the dashboard was designed
 2. Load into Excel spreadsheet
 3. Clean and Process using functions, formulas and Pivot tables.
 4. Build Dynamic Dashboard using Charts
+
+# Data Processing
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/001.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/002.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/003.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/004.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/005.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/006.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/008.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/009.PNG)
+
+# Dashboard Mockup
 
 # Insights
 
