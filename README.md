@@ -69,11 +69,36 @@ The aim of this dataset is to provide detailed information on loan applications 
 Process of which the dashboard was designed
 
 1.  Clustered column chart
-2.  Bar & Column chart
-3.  Donut Chart
-4.  Area chart
-5.  Line charts
-6.  KPIs
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/002.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/003.PNG)
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/005.PNG)
+
+2.  Bar
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/004.PNG)
+
+3.  Column chart
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/007.PNG)
+
+4.  Donut Chart
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/008.PNG)
+
+5.  Area chart
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/006.PNG)
+
+6.  Line charts
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/009.PNG)
+
+7.  KPIs
+
+![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/001.PNG)
 
 # Stages
 
@@ -82,24 +107,6 @@ Process of which the dashboard was designed
 3. Clean and Process using functions, formulas and Pivot tables.
 4. Build Dynamic Dashboard using Charts
 
-# Data Processing
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/001.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/002.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/003.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/004.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/005.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/006.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/008.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/009.PNG)
-
-![PivotTables](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/images/010.PNG)
 
 # Dashboard Mockup
 
