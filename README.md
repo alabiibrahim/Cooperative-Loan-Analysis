@@ -1,4 +1,4 @@
-# Cooperative-Loan-Analysis
+# Co-operative Loan Analysis
 
 ![ReportGIF](assets/images/cooperativeloan%20gif.gif)
 
