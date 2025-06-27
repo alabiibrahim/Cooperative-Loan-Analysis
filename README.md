@@ -63,7 +63,7 @@ The aim of this dataset is to provide detailed information on loan applications 
 12.	Is there a risk in the high loan volume from unemployed applicants?
     
 ## Data Source
-![Datasets](assets/datasets/LoanData.zip)
+![Datasets](https://github.com/alabiibrahim/Cooperative-Loan-Analysis/blob/main/assets/datasets/LoanData.zip)
 
 
 ## Tools 
@@ -98,10 +98,11 @@ Process of which the dashboard was designed
 
 ![Visuals](assets/images/006.PNG)
 
-![Visuals](assets/images/007.PNG)
-
 ![Visuals](assets/images/008.PNG)
 
+![Visuals](assets/images/009.PNG)
+
+![Visuals](assets/images/010.PNG)
 
 
 
