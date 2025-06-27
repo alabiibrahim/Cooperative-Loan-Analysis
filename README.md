@@ -86,8 +86,21 @@ Process of which the dashboard was designed
 
 ## Processing
 
+![Visuals](assets/images/001.PNG)
 
+![Visuals](assets/images/002.PNG)
 
+![Visuals](assets/images/003.PNG)
+
+![Visuals](assets/images/004.PNG)
+
+![Visuals](assets/images/005.PNG)
+
+![Visuals](assets/images/006.PNG)
+
+![Visuals](assets/images/007.PNG)
+
+![Visuals](assets/images/008.PNG)
 
 
 
