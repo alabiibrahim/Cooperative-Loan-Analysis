@@ -1,4 +1,4 @@
-# Co-operative Loan Analysis
+# Excel- Pivot tables,Functions & Formulas, Charts.
 
 ![ReportGIF](assets/images/cooperativeloan%20gif.gif)
 
