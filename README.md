@@ -87,37 +87,8 @@ Process of which the dashboard was designed
 ## Processing
 
 
-1.  Clustered column chart
 
-![PivotTables](assets/images/002.PNG)
 
-![PivotTables](assets/images/003.PNG)
-
-![PivotTables](assets/images/005.PNG)
-
-2.  Bar
-
-![PivotTables](assets/images/004.PNG)
-
-3.  Column chart
-
-![PivotTables](assets/images/007.PNG)
-
-4.  Donut Chart
-
-![PivotTables](assets/images/008.PNG)
-
-5.  Area chart
-
-![PivotTables](assets/images/006.PNG)
-
-6.  Line charts
-
-![PivotTables](assets/images/009.PNG)
-
-7.  KPIs
-
-![PivotTables](assets/images/001.PNG)
 
 
 
