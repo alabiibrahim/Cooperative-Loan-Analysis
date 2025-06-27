@@ -2,7 +2,7 @@
 
 ![ReportGIF](assets/images/cooperativeloan%20gif.gif)
 
-# Table of contents
+## Table of contents
 
 - [Project brief](#Projectbrief)
 - [Objective](#Objective)
@@ -15,10 +15,10 @@
 - [Insights](#Insights)
 - [Recommendations](#Recommendations)
 
-# Project Brief: 
+## Project Brief: 
 Cooperative Loan Analysis
 
-# Objectives
+## Objectives
 
 The aim of this dataset is to provide detailed information on loan applications submitted to a co-operative financial institution. It includes applicant demographics, loan details, and approval status, allowing for a comprehensive analysis of trends, customer behavior, and business performance.
 
@@ -34,7 +34,9 @@ The aim of this dataset is to provide detailed information on loan applications 
     
 11.	Support Data-Driven Decision Making: Provide actionable insights to help the organization optimize loan products, marketing efforts, and risk management.
 
+
 ## Key Questions to Answer
+
 
 1.	In which months was loan funding highest and lowest?
   
@@ -60,22 +62,29 @@ The aim of this dataset is to provide detailed information on loan applications 
     
 12.	Is there a risk in the high loan volume from unemployed applicants?
     
-# Data Source
+## Data Source
+![Datasets]()
 
-# Tools 
+
+## Tools 
 | Excel | Cleaning, Processing, Pivot Tables |
 
-# Dashboard design
+
+## Dashboard Mockup
 Process of which the dashboard was designed
 
-![Dashboard Mockup]()
+![Dashboard Mockup](assets/images/co-operative%20loan%20dashboard.PNG)
 
-# Stages
+
+## Stages
 
 1. Get data from source
 2. Load into Excel spreadsheet
 3. Clean and Process using functions, formulas and Pivot tables.
 4. Build Dynamic Dashboard using Charts
+
+
+## Processing
 
 
 1.  Clustered column chart
@@ -112,7 +121,7 @@ Process of which the dashboard was designed
 
 
 
-# Insights
+## Insights
 
 •	Age Group: Applicants aged 30–50 dominate loan applications and approvals.
 
@@ -130,7 +139,7 @@ Process of which the dashboard was designed
 
 •	Loan Term: Short- to mid-term loans (36–60 months) are most popular.
 
-# Recommendations
+## Recommendations
 
 •	Target Ages 30–50: Tailor marketing and loan products toward this active segment.
 
